@@ -10,6 +10,7 @@ namespace VSTest
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello World");
         }
     }
 }
